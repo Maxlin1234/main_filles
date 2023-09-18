@@ -1,0 +1,1 @@
+import{o as t,b as e,r as l,j as p,t as m,u as a,O as u,F as _}from"./entry.503b46b5.js";const i={key:0},b={__name:"StatementSplitter",props:["statement"],setup(n){const{statement:o}=n;let s=o.split("<BR>");return(d,k)=>(t(!0),e(_,null,l(a(s),(c,r)=>(t(),e("span",{key:r,style:{display:"block"}},[p(m(c)+" ",1),r!==a(s).length-1?(t(),e("br",i)):u("",!0)]))),128))}};export{b as _};
